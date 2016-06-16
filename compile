@@ -1,0 +1,2 @@
+g++ -o inv2 inv2.cpp -Wall -llapack -lblas -lm
+gcc invers.c -Wall -llapack -lblas -lm
